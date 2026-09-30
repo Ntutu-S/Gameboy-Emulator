@@ -1,0 +1,6 @@
+build/
+*.o
+*.sav
+*.bin
+tests/*.gba
+tests/*.bin
